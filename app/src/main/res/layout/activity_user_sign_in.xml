@@ -24,7 +24,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="20dp"
         android:clickable="true"
-        android:text="Evaluate your website"
+        android:text="Usability Evaluation"
         android:textColor="#1b1a1a"
         android:textSize="27dp"
         android:textStyle="bold" />
